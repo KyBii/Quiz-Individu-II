@@ -1,13 +1,12 @@
 # Quiz-Individu-II
-## 1. Penjelasan versi pada gambar download python dibawah
-
+## 1. Penjelasan arti angka dari versi python di bawah ini.
 ![a](https://user-images.githubusercontent.com/92983457/138550932-7bf92031-635b-408a-9985-a94df02b722d.png)
 
 - [x] **3.** adalah revisi besar yang terjadi pada python, seperti penambahan syntax, perubahan cara deklarasi dsb dalam gambar tersebut python telah melakukan revisi besar sebanyak 3 kali
 - [x] **10.** adalah revisi kecil seperti perbaikan bug atau perubahan pada function python yg sudah ada
 - [x] **0** adalah nomor build 
 
-## 2.Penjelasan tools pada vsc
+## 2.Penjelasan fungsi tools pada VSCode
 * **Explorer**
 untuk menampilkan list file dalam sebuah folder
 ```
@@ -79,7 +78,7 @@ tutorial
 
 ![image](https://user-images.githubusercontent.com/92983457/138580475-8e25cfd8-db84-4862-bf56-8dc58562cabf.png)
 
-## 3. Penjelasan serta contoh penerapan extension pada VSCode
+## 3. Penjelasan dan contoh penerapan extension pada VSCode
 **Extension** pada vscode adalah sebuah tools untuk mengatur fitur tambahan yang bisa dipasangkan ke VSCode untuk memudahkan pekerjaan, extension tidak terbatas pada tcode debugger, formatting, dan lint saja tapi bisa juga pada tema warna vscode, dan vscode behaviour
 
 * **Contoh extension**
