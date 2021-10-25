@@ -15,12 +15,12 @@ Tutorial
 klik file dipojok kiri atas kemudian pilih open folder maka window baru akan muncul, pilih folder yang dituju kemudian klik open folder di pojok kanan bawah
 maka akan tambil list file dalam folder tersebut
 ```
-![image](https://user-images.githubusercontent.com/92983457/138551760-ad4e95fe-9691-47b7-8a51-b23d389c2369.png)
+![1](https://user-images.githubusercontent.com/93004722/138714398-e718a0cc-cee5-4dc7-9d8c-8fbccbf2d250.PNG)
 
 * **Search**
 Digunakan untuk mencari baris kode dengan mengetikkan keywords pada kolom seperti di gambar
 
-![image](https://user-images.githubusercontent.com/92983457/138552237-88f022a0-d637-4ecd-9c04-8887a8718665.png)
+![2](https://user-images.githubusercontent.com/93004722/138714757-4e0b6b5b-46b8-4ab9-acd7-b96cff10b54d.PNG)
 
 * **Replace**
 berada dibawah kolom Search, digunakan untuk mengganti teks yang diketik pada kolom search dengan teks yang diketik pada kolom replace
@@ -30,7 +30,7 @@ berada dibawah kolom Search, digunakan untuk mengganti teks yang diketik pada ko
  ketikkan text yang anda ingin ganti, disini saya mengetikkan 'moment'(merah) untuk diganti dengan 'datetime'(putih)
  pilih baris yang ingin teks nya diganti dengan 'datetime' kemudian arahkan cursor pada simbol di `b^c` atau tekan ctrl+shift+1 pada keyboard
  ```
- ![image](https://user-images.githubusercontent.com/92983457/138552401-92e18ff2-0d87-4e0a-91a7-5ef6624e0f7d.png)
+ ![3](https://user-images.githubusercontent.com/93004722/138715065-45f679de-9e3a-4ee6-b06e-33d3e0377b6d.PNG)
  
  * **Source control**
  digunakan untuk mengontrol versi program yang kita upload ke github dari VSCode jika anda punya git repository
@@ -80,7 +80,7 @@ tutorial
 ![image](https://user-images.githubusercontent.com/92983457/138580475-8e25cfd8-db84-4862-bf56-8dc58562cabf.png)
 
 ## 3. Penjelasan serta contoh penerapan extension pada VSCode
-**Extension** pada vscode adalah sebuah tools untuk mengatur fitur tanbahan yang bisa dipasangkan ke VSCode untuk memudahkan pekerjaan, extension tidak terbatas pada tcode debugger, formatting, dan lint saja tapi bisa juga pada tema warna vscode, dan vscode behaviour
+**Extension** pada vscode adalah sebuah tools untuk mengatur fitur tambahan yang bisa dipasangkan ke VSCode untuk memudahkan pekerjaan, extension tidak terbatas pada tcode debugger, formatting, dan lint saja tapi bisa juga pada tema warna vscode, dan vscode behaviour
 
 * **Contoh extension**
 Saya memakai Bracket colorized untuk memberikan warna pada tanda kurung `()` `{}` `[]` bertujuan sebagai penanda awal dan akhir dari _bracket_(kurung) agar lebih mudah,
